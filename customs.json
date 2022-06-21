@@ -1,0 +1,14 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "td"
+        },
+        "th:data-id": {},
+        "th:action": {},
+        "th:each": {},
+        "th:href": {},
+        "th:field": {},
+        "th:value": {}
+    }
+}
